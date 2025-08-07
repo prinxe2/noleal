@@ -1,6 +1,6 @@
 {
   "name": "react_portfolio",
-  "homepage": "https://github.com/prinxe2/noleal",
+  "homepage": "https://prinxe2.github.io/noleal/",
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -14,7 +14,6 @@
   "dependencies": {
     "@emailjs/browser": "^3.9.1",
     "aos": "^2.3.4",
-    "gh-pages": "^6.3.0",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "react-hot-toast": "^2.4.0",
@@ -27,6 +26,7 @@
     "@types/react-dom": "^18.0.8",
     "@vitejs/plugin-react": "^4.7.0",
     "autoprefixer": "^10.4.13",
+    "gh-pages": "^6.3.0",
     "postcss": "^8.4.18",
     "tailwindcss": "^3.2.3",
     "vite": "^7.1.0"
