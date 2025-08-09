@@ -30,7 +30,7 @@ import Hireme_person2 from "./assets/images/Hireme/person2.png";
 // import icons from react-icons
 import { GrMail } from "react-icons/gr";
 import { MdArrowForward, MdCall } from "react-icons/md";
-import { BsFacebook, BsInstagram } from "react-icons/bs";
+import { BsFacebook, BsInstagram, BsController } from "react-icons/bs";
 import { TbSmartHome } from "react-icons/tb";
 import { BiUser } from "react-icons/bi";
 import { RiServiceLine, RiProjectorLine } from "react-icons/ri";
@@ -219,6 +219,11 @@ export const content = {
         text: "Noleal Arjay M",
         icon: BsFacebook,
         link: "https://www.facebook.com/Prince.Frays.031002/",
+      },
+       {
+        text: "Game Development/Sad Saturn",
+        icon:  BsController,
+        link: "https://sad-satern.itch.io/",
       },
     ],
   },

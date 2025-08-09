@@ -71,6 +71,7 @@ const Contact = () => {
               className="text-white placeholder-white border-2 border-white p-3 rounded"
               required
             ></textarea>
+            
             <button
               className="btn self-start
             bg-white text-dark_primary"
